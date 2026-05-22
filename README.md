@@ -1,4 +1,4 @@
-# GitHub Profile Achievement Badges
+# GitHub Profile Achievement Badges 
 
 >This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Achievements Being Tested
+# Achievements Being Tested 
 
 These achievements are still in testing and will be obtainable soon:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
