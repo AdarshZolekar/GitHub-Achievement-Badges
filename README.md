@@ -33,7 +33,7 @@ Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 
 ---
 
-# Un-Obtainable Achievements
+# Non-Obtainable Achievements
 
 The following are badges that used to be obtainable, but now cannot be obtained:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
